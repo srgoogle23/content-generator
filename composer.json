@@ -1,0 +1,6 @@
+{
+    "require": {
+        "league/html-to-markdown": "^5.0",
+        "paquettg/php-html-parser": "^3.1"
+    }
+}
